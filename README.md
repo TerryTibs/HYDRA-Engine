@@ -1,5 +1,3 @@
-Here is a comprehensive README.md for your project. I have chosen the descriptive title Neuro-Symbolic MARL Snake, but you can easily swap it for HYDRA if you prefer that acronym.
-
 Neuro-Symbolic MARL Snake (NeSy-Snake)
 
 A Multi-Agent Reinforcement Learning environment where agents play Snake using a Neuro-Symbolic architecture. Unlike traditional RL agents that map pixels directly to actions, these agents form internal "concepts" (e.g., Threat, Food, Survival), communicate with one another, and use a learned internal world model to plan moves via Monte Carlo Tree Search (MCTS).
